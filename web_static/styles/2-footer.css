@@ -7,6 +7,3 @@ footer {
     position: fixed;
     bottom: 0;
 }
-div {
-    min-height: calc(100vh - 130px);
-}
