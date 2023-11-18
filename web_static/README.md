@@ -1,0 +1,1 @@
+Readme file for webstatic project for AirBnB Clone project at ALX SE
