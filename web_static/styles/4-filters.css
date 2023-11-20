@@ -17,7 +17,9 @@
     border-radius: 4px;
     position: absolute;
     top: 50%;
+    right: 30px;
     margin-right: 30px;
+    transform: translateY(-50%);
     transition: opacity 0.3s;
 }
 
