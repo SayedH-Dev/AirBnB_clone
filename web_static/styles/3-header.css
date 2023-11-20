@@ -1,6 +1,19 @@
 header {
     height: 70px;
+    width: 100%;
     border-bottom: 1px solid #CCCCCC;
-    background-color: #FF0000;
+    background-color: white;
     color: white;
+    display: flex;
+    align-items: center;
+}
+
+header .logo {
+    background-image: url('../images/logo.png');
+    background-size: contain;
+    background-position: left center;
+    background-repeat: no-repeat;
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
 }
